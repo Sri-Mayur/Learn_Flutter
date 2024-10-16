@@ -20,13 +20,6 @@ void main() {
   print(currentTime); // Outputs current time
   print(pi); // Outputs 3.14
 
-
-
-
-
-
-
-
   /**-------------------------------------------------------- */
 
   final names1 = {
